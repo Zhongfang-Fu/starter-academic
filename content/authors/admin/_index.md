@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 符仲芳(Zhongfang Fu)
+title: Zhongfang Fu
 
 # Is this the primary user of the site?
 superuser: true
