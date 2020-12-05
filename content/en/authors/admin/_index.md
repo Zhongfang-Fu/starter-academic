@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include effectiveness and dissemination of minimal psychological treatment in China.
 
-interests:
+Research field:
 - Minimal treatment 
 - Mental health problems
 - Global mental health
