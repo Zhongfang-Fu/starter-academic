@@ -1,36 +1,36 @@
 ---
 # Display name
-title: Zhongfang Fu
+title: 符仲芳
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Candidate of Clinical Psychology
+role: 临床心理学博士(在读)
 
 # Organizations/Affiliations
 organizations:
-- name: Amsterdam University Medical Center
+- name: 阿姆斯特丹大学医学院精神科
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include effectiveness and dissemination of minimal psychological treatment in China.
 
 interests:
-- Minimal treatment 
-- Under-resourced setting
-- Global mental health
+- 低浓度心理治疗
+- 常见心理问题
+- 全球心理健康
 
 education:
   courses:
-  - course: PhD in Clinical Psychology
-    institution: Amsterdam University Medical Center (location AMC), University of Amsterdam
-    year: 2016 to present
-  - course: MSc in Applied Psychology
-    institution: Beijing Normal University
+  - course: 临床心理学博士在读
+    institution: 阿姆斯特丹大学
+    year: 2016至今
+  - course: 应用心理学硕士
+    institution: 北京师范大学
     year: 2016
-  - course: BSc in Psychology
-    institution: Beijing Normal University
+  - course: 心理学学士
+    institution: 北京师范大学
     year: 2013
 
 # Social/Academic Networking
@@ -40,8 +40,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "z.fu@amsterdamumc.nl".
-- icon: twitter
+  link: 'z.fu@amsterdamumc.nl'  # For a direct email link, use "z.fu@amsterdamumc.nl".
+- icon: linkenin
   icon_pack: fab
   link: 
 - icon: google-scholar

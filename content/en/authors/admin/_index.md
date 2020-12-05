@@ -18,7 +18,7 @@ bio: My research interests include effectiveness and dissemination of minimal ps
 
 interests:
 - Minimal treatment 
-- Under-resourced setting
+- Mental health problems
 - Global mental health
 
 education:
@@ -40,8 +40,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "z.fu@amsterdamumc.nl".
-- icon: twitter
+  link: 'z.fu@amsterdamumc.nl'  # For a direct email link, use "z.fu@amsterdamumc.nl".
+- icon: linkedin
   icon_pack: fab
   link: 
 - icon: google-scholar
