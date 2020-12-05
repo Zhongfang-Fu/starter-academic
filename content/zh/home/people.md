@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "合作小伙伴"
+title = "科研合作小伙伴"
 subtitle =""
 
 # List user groups to display.
