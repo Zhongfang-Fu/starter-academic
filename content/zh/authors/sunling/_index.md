@@ -6,7 +6,7 @@ title: 孙凌
 superuser: false
 
 # Role/position
-role: 临床心理学讲师
+role: 应用心理学讲师
 
 # Organizations/Affiliations
 organizations:

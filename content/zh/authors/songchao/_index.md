@@ -10,7 +10,7 @@ role: 临床心理学博士(在读)
 
 # Organizations/Affiliations
 organizations:
-- name: 根特大学心理系
+- name: 根特大学心理与教育学院家庭实验室
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
