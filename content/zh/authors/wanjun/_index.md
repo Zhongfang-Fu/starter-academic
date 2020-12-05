@@ -6,7 +6,7 @@ title: 李婉君
 superuser: false
 
 # Role/position
-role: 临床心理学博士(在读)
+role: 临床心理学专业博士(在读)
 
 # Organizations/Affiliations
 organizations:
@@ -16,6 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 interests:
+- 认知行为疗法
 - 网络心理干预
 - 大学生抑郁
 
@@ -39,7 +40,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:z.fu@amsterdamumc.nl'  # For a direct email link, use "z.fu@amsterdamumc.nl".
+  link: 'mailto:'  # For a direct email link, use "z.fu@amsterdamumc.nl".
 - icon: linkedin
   icon_pack: fab
   link: 
