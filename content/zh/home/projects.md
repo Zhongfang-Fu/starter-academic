@@ -26,11 +26,11 @@ subtitle = ""
      tag = "*"
   
    [[content.filter_button]]
-     name = "Working mechanism of internet-based BA treatment"
+     name = "网络行为激活的干预机制"
      tag = "Behavioral Activation"
   
    [[content.filter_button]]
-     name = "Effectiveness of gCBT on depression"
+     name = "团体CBT对大学生抑郁的干预"
      tag = "gCBT"
 
 [design]
