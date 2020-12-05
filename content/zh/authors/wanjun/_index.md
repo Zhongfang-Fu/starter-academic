@@ -14,8 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include effectiveness and dissemination of minimal psychological treatment in China.
-
+bio: 
 interests:
 - 网络心理干预
 - 大学生抑郁
@@ -69,7 +68,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+
 ---
 
 

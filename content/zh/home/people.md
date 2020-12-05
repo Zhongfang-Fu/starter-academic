@@ -6,11 +6,14 @@ active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
 title = "合作小伙伴"
-subtitle = ""
+subtitle =""
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
-user_groups = "Researchers", "Visitors"
+user_groups:
+
+- Researchers 
+- Visitors
 
 
 
