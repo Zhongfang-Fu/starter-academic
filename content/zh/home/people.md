@@ -9,9 +9,9 @@ title = "合作小伙伴"
 subtitle =""
 
 # List user groups to display.
-#   Edit each user's `user_groups` to add them to one or more of these groups.
+# Edit each user's `user_groups` to add them to one or more of these groups.
 
-content:
+[content]
 # Choose which groups/teams of users to display.
 #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
 
