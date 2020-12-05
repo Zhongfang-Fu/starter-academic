@@ -1,33 +1,19 @@
 +++
-
-
-widget = "people"
+# People widget.
+widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true
-# ... Put Your Section Options Here (title etc.) ...
+active = true  # Activate this widget? true/false
+weight = 68  # Order that this section will appear.
 
-title ="合作小伙伴"
+title = "People"
 subtitle = ""
 
-
-content:
-  # Choose which groups/teams of users to display.
-  #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups:
-    - Principal Investigators
-    - Researchers
-    - Grad Students
-    - Administration
-    - Visitors
-    - Alumni
-design:
-  # Show user's social networking links? (true/false)
-  show_social: true
-  # Show user's interests? (true/false)
-  show_interests: true
-  # Show user's role?
-  show_role: true
-  # Show user's organizations/affiliations?
-  show_organizations: true
-
+# List user groups to display.
+#   Edit each user's `user_groups` to add them to one or more of these groups.
+user_groups = ["Principal Investigators",
+               "Researchers",
+               "Grad Students",
+               "Administration",
+               "Visitors",
+               "Alumni"]
 +++
