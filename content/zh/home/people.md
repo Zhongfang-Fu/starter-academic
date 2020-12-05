@@ -6,7 +6,7 @@ headless = true  # This file represents a page section.
 active = true
 # ... Put Your Section Options Here (title etc.) ...
 
-title = "合作小伙伴"
+title ="合作小伙伴"
 subtitle = ""
 
 
