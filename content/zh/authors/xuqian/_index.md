@@ -9,8 +9,8 @@ superuser: false
 role: 副教授(教育博士)
 
 # Organizations/Affiliations
-organizations:西南财经大学心理健康中心
-- name: 
+organizations:
+- name: 西南财经大学心理健康中心
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
