@@ -14,8 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-- My research interests include effectiveness and dissemination of minimal psychological treatment in China.
+bio: My research interests include effectiveness and dissemination of minimal psychological treatment in China.
 
 interests:
 - 低浓度心理治疗
