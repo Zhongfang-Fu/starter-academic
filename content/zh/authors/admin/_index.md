@@ -16,10 +16,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include effectiveness and dissemination of minimal psychological treatment in China.
 
-interests:
+兴趣领域:
 - 低浓度心理治疗
-- 常见心理问题
-- 全球心理健康
+- 抑郁/焦虑
+- 发展中国家心理健康
 
 education:
   courses:
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'z.fu@amsterdamumc.nl'  # For a direct email link, use "z.fu@amsterdamumc.nl".
+  link: 'mailto:z.fu@amsterdamumc.nl'  # For a direct email link, use "z.fu@amsterdamumc.nl".
 - icon: linkedin
   icon_pack: fab
   link: 
