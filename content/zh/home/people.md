@@ -1,7 +1,14 @@
-widget: people
-headless: true  # This file represents a page section.
++++
 
+
+widget = "people""
+headless = true  # This file represents a page section.
+status = active
 # ... Put Your Section Options Here (title etc.) ...
+
+title = "合作小伙伴"
+subtitle = ""
+
 
 content:
   # Choose which groups/teams of users to display.
