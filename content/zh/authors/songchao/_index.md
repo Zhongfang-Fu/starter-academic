@@ -18,6 +18,7 @@ bio:
 
 interests:
 - 性少数群体
+- 亲密关系
 - 心理健康
 
 
@@ -30,7 +31,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:z.fu@amsterdamumc.nl'  # For a direct email link, use "z.fu@amsterdamumc.nl".
+  link: 'mailto:'  # For a direct email link, use "z.fu@amsterdamumc.nl".
 - icon: linkedin
   icon_pack: fab
   link: 
