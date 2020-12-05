@@ -6,7 +6,7 @@ title: 李婉君
 superuser: false
 
 # Role/position
-role: 临床心理学专业博士(在读)
+role: 教育博士(在读)
 
 # Organizations/Affiliations
 organizations:
