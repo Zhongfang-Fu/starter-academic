@@ -1,37 +1,25 @@
 ---
 # Display name
-title: 符仲芳
+title: 孙凌
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: 临床心理学博士(在读)
+role: 临床心理学讲师
 
 # Organizations/Affiliations
 organizations:
-- name: 阿姆斯特丹大学医学院精神科
+- name: 北京师范大学珠海分校
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include effectiveness and dissemination of minimal psychological treatment in China.
+bio: 
 
 interests:
-- 低浓度心理治疗
-- 抑郁/焦虑
-- 发展中国家心理健康
+- 父母教养方式的代际传递
+- 青少年自杀/自伤
 
-education:
-  courses:
-  - course: 临床心理学博士在读
-    institution: 阿姆斯特丹大学
-    year: 2016至今
-  - course: 应用心理学硕士
-    institution: 北京师范大学
-    year: 2016
-  - course: 心理学学士
-    institution: 北京师范大学
-    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,8 +56,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+- Collaborators
+
 ---
 
 
