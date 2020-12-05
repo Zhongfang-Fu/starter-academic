@@ -41,7 +41,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'z.fu@amsterdamumc.nl'  # For a direct email link, use "z.fu@amsterdamumc.nl".
-- icon: linkenin
+- icon: linkedin
   icon_pack: fab
   link: 
 - icon: google-scholar
