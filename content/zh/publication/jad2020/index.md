@@ -22,7 +22,7 @@ publishDate: "2020-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Affective Disorders* 262,440-450 "
+publication: "*Journal of Affective Disorders*"
 publication_short: ""
 
 abstract: 
@@ -31,7 +31,8 @@ abstract:
 summary: Psychological interventions for depression amongst Chinese university students were effective compared to control groups.Technological solutions could facilitate wider dissemination.
 
 tags:
-- Source Themes
+- Chinese university students
+- Psychosocial Interventions
 featured: false
 
 # links:
@@ -49,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**Baidu**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -65,15 +66,15 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+#{{% alert note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+#{{% alert note %}}
+#Click the *Slides* button above to demo Academic's Markdown slides feature.
+#{{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+#Supplementary notes can be added here, including [code and #math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
