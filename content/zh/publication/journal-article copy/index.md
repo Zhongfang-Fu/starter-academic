@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 # url: 
-url_pdf:'https://doi.org/10.1016/S2215-0366(20)30256-X' 
+url_pdf: https://doi.org/10.1016/S2215-0366(20)30256-X 
 url_code: ''
 url_dataset: ''
 url_poster: ''
