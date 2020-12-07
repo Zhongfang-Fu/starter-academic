@@ -22,7 +22,7 @@ publishDate: "2020-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Affective Disorders*(1)"
+publication: "*Journal of Affective Disorders* 262,440-450 "
 publication_short: ""
 
 abstract: 

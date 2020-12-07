@@ -21,7 +21,7 @@ publishDate: "2020-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*The Lancet Psychiatry*(1)"
+publication: "*The Lancet Psychiatry*,7(10),851-864"
 publication_short: ""
 
 abstract: We aimed to systematically investigate the available evidence for digital psychological interventions in reducing mental health problems in LMICs. We identified 22 eligible studies that were included in the meta-analysis. The included studies involved a total of 4104 participants (2351 who received a digital psychological intervention and 1753 who were in the control group), and mainly focused on young adults (mean age of the study population was 20–35 years) with depression or substance misuse. The results showed that digital psychological interventions are moderately effective when compared with control interventions (Hedges' g 0·60 [95% CI 0·45–0·75]; Hedges' g with treatment as usual subgroup for comparison 0·54 [0·35–0·73]). Heterogeneity between studies was substantial (I2=74% [95% CI 60–83]). There was no evidence of publication bias, and the quality of evidence according to the GRADE criteria was generally high.
