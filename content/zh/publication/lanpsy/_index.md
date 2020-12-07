@@ -17,7 +17,8 @@ url_pdf = "https://www.sciencedirect.com/science/article/pii/S221503662030256X?c
 view = 3
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption =  ""
-  image =  ""
+#header:
+#  caption =  ""
+#  image =  ""
+  
 +++
