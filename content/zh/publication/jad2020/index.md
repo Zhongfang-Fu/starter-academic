@@ -28,8 +28,7 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: Psychological interventions for depression amongst Chinese university students were effective compared to control groups.
-Technological solutions could facilitate wider dissemination.
+summary: Psychological interventions for depression amongst Chinese university students were effective compared to control groups.Technological solutions could facilitate wider dissemination.
 
 tags:
 - Source Themes
