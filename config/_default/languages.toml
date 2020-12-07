@@ -31,7 +31,7 @@
 
 [[zh.menu.main]]
   name = "发表物"
-  url = "#featured"
+  url = "#publications"
   weight = 4
 
 [[zh.menu.main]]

@@ -119,10 +119,10 @@
 # Contact widget
 
 - id: contact_name
-  translation: 姓名
+  translation:你的姓名
 
 - id: contact_email
-  translation: 邮箱
+  translation:你的邮箱
 
 - id: contact_message
   translation: 信息

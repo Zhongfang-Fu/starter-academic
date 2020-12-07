@@ -122,10 +122,10 @@
 # Contact widget
 
 - id: contact_name
-  translation: Name
+  translation: Your Name
 
 - id: contact_email
-  translation: Email
+  translation: Your Email
 
 - id: contact_message
   translation: Message
