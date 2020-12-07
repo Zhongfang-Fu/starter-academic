@@ -1,7 +1,7 @@
 +++
 
-title:  Effectiveness of digital psychological interventions for mental health problems in low-income and middle-income countries: a systematic review and meta-analysis.
-date:"2020-10-29" 
+title =  Effectiveness of digital psychological interventions for mental health problems in low-income and middle-income countries: a systematic review and meta-analysis.
+date = "2020-10-29" 
 publication_types: 2
 publication: Lancet Psychiatry
 abstract: The effectiveness of digital psychological interventions in low-income and middle-income countries (LMICs) was systematically investigated. We identified 22 eligible studies that were included in the meta-analysis. The included studies involved a total of 4104 participants (2351 who received a digital psychological intervention and 1753 who were in the control group), and mainly focused on young adults (mean age of the study population was 20–35 years) with depression or substance misuse. The results showed that digital psychological interventions are moderately effective when compared with control interventions (Hedges' g 0·60 [95% CI 0·45–0·75]; Hedges' g with treatment as usual subgroup for comparison 0·54 [0·35–0·73]). Heterogeneity between studies was substantial (I2=74% [95% CI 60–83]). There was no evidence of publication bias, and the quality of evidence according to the GRADE criteria was generally high. (PROSPERO, CRD42019137755).
