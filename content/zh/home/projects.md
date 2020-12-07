@@ -25,13 +25,13 @@ subtitle = ""
    #   name = ""
    #   tag = "*"
   
-   [[content.filter_button]]
-     name = "网络行为激活的干预机制"
-     tag = "Behavioral Activation"
+   #[[content.filter_button]]
+  #   name = "网络行为激活的干预机制"
+  #   tag = "Behavioral Activation"
   
-   [[content.filter_button]]
-     name = "团体CBT对大学生抑郁的干预"
-     tag = "gCBT"
+   #[[content.filter_button]]
+    # name = "团体CBT对大学生抑郁的干预"
+     #tag = "gCBT"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
