@@ -6,11 +6,11 @@ title: Zhongfang Fu
 superuser: true
 
 # Role/position
-role: PhD Candidate of Clinical Psychology
+role: PhD of Clinical Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: Amsterdam University Medical Center
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD in Clinical Psychology
     institution: Amsterdam University Medical Center (location AMC), University of Amsterdam
-    year: 2016 to 2021
+    year: 2021
   - course: MSc in Applied Psychology
     institution: Beijing Normal University
     year: 2016
@@ -43,7 +43,7 @@ social:
   link: 'mailto:zhongfang_fu@163.com'  # For a direct email link, use "zhongfang_fu@163.com".
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/zhongfang-fu
+  link: https://linkedin.com/in/zhongfang-fu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=SVSWnCkAAAAJ&hl=en&authuser=1
@@ -63,7 +63,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
