@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include effectiveness and dissemination of minimal psychological treatment in China.
+bio: My research interests include effectiveness and dissemination of low intensity psychological intervention in China.
 
 interests:
 - Minimal treatment 
@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD in Clinical Psychology
     institution: Amsterdam University Medical Center (location AMC), University of Amsterdam
-    year: 2016 to present
+    year: 2016 to 2021
   - course: MSc in Applied Psychology
     institution: Beijing Normal University
     year: 2016
@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:z.fu@amsterdamumc.nl'  # For a direct email link, use "z.fu@amsterdamumc.nl".
+  link: 'mailto:zhongfang_fu@163.com'  # For a direct email link, use "zhongfang_fu@163.com".
 - icon: linkedin
   icon_pack: fab
-  link: 
+  link: linkedin.com/in/zhongfang-fu
 - icon: google-scholar
   icon_pack: ai
-  link:
+  link: https://scholar.google.com/citations?user=SVSWnCkAAAAJ&hl=en&authuser=1
 - icon: researchgate
   icon_pack: fab
-  link:
+  link: https://www.researchgate.net/profile/Zhongfang-Fu
 - icon: github
   icon_pack: fab
   link: 
