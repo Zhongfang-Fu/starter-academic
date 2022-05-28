@@ -6,11 +6,11 @@ title: 符仲芳
 superuser: true
 
 # Role/position
-role: 临床心理学博士(在读)
+role: 临床心理学博士
 
 # Organizations/Affiliations
 organizations:
-- name: 阿姆斯特丹大学医学院精神科
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,9 +23,9 @@ interests:
 
 education:
   courses:
-  - course: 临床心理学博士在读
+  - course: 临床心理学博士
     institution: 阿姆斯特丹大学
-    year: 2016至今
+    year: 2021
   - course: 应用心理学硕士
     institution: 北京师范大学
     year: 2016
@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:z.fu@amsterdamumc.nl'  # For a direct email link, use "z.fu@amsterdamumc.nl".
+  link: 'mailto:zhongfang_fu@163.com'  # For a direct email link, use "zhongfang_fu@163.com".
 - icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://linkedin.com/in/zhongfang-fu
 - icon: google-scholar
   icon_pack: ai
-  link: 
+  link: https://scholar.google.com/citations?user=SVSWnCkAAAAJ&hl=en&authuser=1
 - icon: researchgate
   icon_pack: fab
-  link:
+  link: https://www.researchgate.net/profile/Zhongfang-Fu
 - icon: github
   icon_pack: fab
   link: 
@@ -63,7 +63,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
