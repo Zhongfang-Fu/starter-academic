@@ -1,10 +1,9 @@
 ---
 title: Digital psychological intervention in LMICs
-summary: An investigation on the effectivenss of digital based interventions delivered in LMICs and their working mechanims.
+summary: An investigation on the effectiveness of digital based interventions delivered in LMICs and their working mechanisms.
 tags:
 - Digital intervention
 
-- We developed a Wechat applet program to help Chinese university students cope with their depression during the COVID-19 pandemic.
 
 date: "2016-10-03T00:00:00Z"
 
@@ -14,7 +13,9 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
+---
 
+  We developed a Wechat applet program to help Chinese university students cope with their depression during the COVID-19 pandemic.
 #links:
 #- icon: twitter
 #  icon_pack: fab
