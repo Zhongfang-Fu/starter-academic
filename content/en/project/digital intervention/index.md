@@ -4,7 +4,7 @@ summary: An investigation on the effectivenss of digital based interventions del
 tags:
 - Digital intervention
 
-We developed a Wechat applet program to help Chinese university students cope with their depression during the COVID-19 pandemic.
+- We developed a Wechat applet program to help Chinese university students cope with their depression during the COVID-19 pandemic.
 
 date: "2016-10-03T00:00:00Z"
 
