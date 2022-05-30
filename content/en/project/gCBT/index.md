@@ -1,6 +1,6 @@
 ---
 title: Group (cogntive) therapy in Chinese university students
-summary: We develop group treatment manual based on cognitive therapy for depression in Chinese university students and examine its effectiveness compared to an active control (group therapy). Working mechanism of treatment through cognitive skills and automatic thoughts are investigated. 
+summary: Group treatment manual based on cognitive therapy for depression in Chinese university students.
 
 #website using `external_link`.
 tags:
@@ -15,3 +15,5 @@ image:
   caption: 
   focal_point: Smart
 ---
+   We develop group treatment manual based on cognitive therapy for depression in Chinese university students and examine its effectiveness compared to an active control (group therapy). Working mechanism of treatment through cognitive skills and automatic thoughts are investigated.
+   We are exploring more possibility to implement group cognitive therapy currently.
