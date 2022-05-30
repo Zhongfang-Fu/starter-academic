@@ -16,6 +16,9 @@ image:
 ---
 
   We developed a Wechat applet program to help Chinese university students cope with their depression during the COVID-19 pandemic.
+  
+  
+---
 #links:
 #- icon: twitter
 #  icon_pack: fab
